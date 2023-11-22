@@ -1,4 +1,4 @@
-# CSC221-afadnavis-GroupProject\
+# CSC221-afadnavis-GroupProject
 
 __Owner:__ Arjun Fadnavis(afadnavis@my.waketech.edu)
 
